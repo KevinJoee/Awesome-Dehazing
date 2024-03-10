@@ -52,3 +52,11 @@ WaterGAN [Code, Paper]
 * Li, Jie, et al. "WaterGAN: unsupervised generative network to enable real-time color correction of monocular underwater images." IEEE Robotics and Automation Letters 3.1 (2018): 387-394.
 Multi-scale Fusion [Code (Third person), Paper]
 * Ancuti, Codruta Orniana, and Cosmin Ancuti. "Single image dehazing by multi-scale fusion." IEEE Transactions on Image Processing 22.8 (2013): 3271-3282.
+## Datasets
+* I-Haze [LINK]
+Ancuti, Cosmin, et al. "I-HAZE: a dehazing benchmark with real hazy and haze-free indoor images." International Conference on Advanced Concepts for Intelligent Vision Systems. Springer, Cham, 2018.
+* O-Haze [LINK)]
+Ancuti, Codruta O., et al. "O-HAZE: a dehazing benchmark with real hazy and haze-free outdoor images." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018.
+* D-Haze (Link closed) [LINK]
+Ancuti, Cosmin, Codruta O. Ancuti, and Christophe De Vleeschouwer. "D-HAZY: A dataset to evaluate quantitatively dehazing algorithms." 2016 IEEE International Conference on Image Processing (ICIP). IEEE, 2016.
+DenseHaze [LINK]
