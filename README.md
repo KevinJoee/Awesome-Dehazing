@@ -2,9 +2,9 @@
 This repository is the collection of dehazing methods. Among various dehazing algorithms, we've selected the datasets provide pose and map information. This repository includes the list of dehazing (includes enhancement and restoration) papers and datasets.
 
 # Single image dehazing
-*Color Cast Dependent Image Dehazing [Code, Paper]
+* Color Cast Dependent Image Dehazing [Code, Paper]
 S. K. Dhara, M. Roy, D. Sen and P. K. Biswas, "Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2020.3007850
-*Densely Connected Pyramid Dehazing Network [Code, Paper]
+* Densely Connected Pyramid Dehazing Network [Code, Paper]
 Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 Multi-band Enhancement [Code, Paper]
 Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
